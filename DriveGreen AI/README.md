@@ -7,7 +7,10 @@ A machine learning–based web application that predicts **CO₂ emissions (g/km
 This project was developed as part of the **1M1B (One Million for One Billion) Virtual One-Month Internship**, focusing on **climate action and sustainable development**.
 
 ---
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQec6BSWWHWLRIEzl9cJJAJK0ITNvtALWrUBg&s
+![CO2 Emissions](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQec6BSWWHWLRIEzl9cJJAJK0ITNvtALWrUBg&s)
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQec6BSWWHWLRIEzl9cJJAJK0ITNvtALWrUBg&s" width="600"/>
+</p>
 
 ## 📌 Internship Details
 
