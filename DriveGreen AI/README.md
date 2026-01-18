@@ -1,7 +1,5 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rajveersinghcse-co2emissionsprediction.streamlit.app/)
-[![MIT LICENSE](https://badgen.net//badge/license/MIT/green)](https://github.com/rajveersinghcse/Reliance_Stock_Market_Prediction/blob/main/LICENSE)   ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
-
 <img height="25" width="80" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img height="25" width="70" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img height="25" width="80" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> <img height="25" width="70" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"> <img height="25" width="110" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img height="25" width="90" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"> 
+
 
 # 🌱 CO₂ Emissions Prediction by Cars
 
@@ -9,12 +7,13 @@ A machine learning–based web application that predicts **CO₂ emissions (g/km
 This project was developed as part of the **1M1B (One Million for One Billion) Virtual One-Month Internship**, focusing on **climate action and sustainable development**.
 
 ---
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQec6BSWWHWLRIEzl9cJJAJK0ITNvtALWrUBg&s
 
 ## 📌 Internship Details
 
 - **Program:** 1M1B – Virtual One-Month Internship  
 - **Domain:** Data Science & Machine Learning  
-- **Theme:** Climate Action (UN SDG 13)  
+- **Theme:** Climate Action  
 - **Project Type:** Real-world impact project  
 
 ---
@@ -99,7 +98,7 @@ https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64
 ## 🚀 Live Deployment
 
 🔗 **Streamlit App:**  
-https://rajveersinghcse-co2emissionsprediction.streamlit.app/
+
 
 Users can:
 - Enter vehicle specifications
@@ -108,11 +107,6 @@ Users can:
 
 ---
 
-## 💻 Run Locally
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/CO2-Emission-Prediction.git
-cd CO2-Emission-Prediction
 
 ### The project not only demonstrates technical skills but also contributes to environmental awareness and sustainable practices. It effectively combines data analysis, machine learning, and software development to address real-world challenges.
